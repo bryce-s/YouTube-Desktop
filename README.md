@@ -1,6 +1,5 @@
 # YouTube-Desktop
-YouTube Viewer
-
+The only MacOS desktop client for YouTube with adblock and session saving.
 
 dev notes:
 ```
