@@ -1,5 +1,5 @@
 # YouTube-Desktop
-The only MacOS desktop client for YouTube with adblock and session saving.
+Shockingly, the only MacOS desktop client for YouTube with both adblock and session saving.
 
 dev notes:
 ```
