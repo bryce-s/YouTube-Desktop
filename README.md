@@ -4,7 +4,7 @@ YouTube Viewer
 
 dev notes:
 ```
-$ npm install --save electron-ad-blocker
+$ npm install --save electron-ad-blocker # also, install yarn prereq
 $ npm install --save electron-window-plus
 
 ```
