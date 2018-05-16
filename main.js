@@ -129,4 +129,11 @@ app.on('ready', function() {
     adBlocker.parse('||mta.youtube.com');
     adBlocker.parse('||dev.youtube.com');
     adBlocker.parse('||home.youtube.com');
+    adBlocker.parse('||ads.youtube.com');
+    adBlocker.parse('||s0.2mdn.net');
+    adBlocker.parse('||s1.2mdn.net');
+    adBlocker.parse('||googleads.g.doubleclick.net');
+    adBlocker.parse('||pubads.g.doubleclick.net');
+    adBlocker.parse('||ad.doubleclick.net');
+    adBlocker.parse('||static.doubleclick.net');
 });
